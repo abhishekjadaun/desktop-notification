@@ -1,5 +1,5 @@
 
-# Blog
+# Desktop Notification
 
 This is desktop notification app.Which shows a desktop notification with audio every 15 minutes by fetching random content from an excel sheet.
 
